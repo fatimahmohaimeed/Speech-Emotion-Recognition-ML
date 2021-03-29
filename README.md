@@ -5,3 +5,9 @@ Recognizing emotions in speech plays an important role in everyday life among pe
 
 Therefore, I aim in this project to discover emotions from sound and extract effective features that help in understanding emotions with accuracy.
 
+
+
+
+
+
+<img width="610" alt="Python code using Decision trees algorithm for Speech Emotion Recognition Machine Learning" src="https://user-images.githubusercontent.com/47718518/112846298-9301a580-90ae-11eb-8fc3-63c4b87c07c3.png">
